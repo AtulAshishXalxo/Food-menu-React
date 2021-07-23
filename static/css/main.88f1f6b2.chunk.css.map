@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Basics/Style.css"],"names":[],"mappings":"AAAA,UAEI,WAAY,CACZ,qBACJ,CAEA,WAEI,YACJ","file":"main.88f1f6b2.chunk.css","sourcesContent":[".item-box\r\n{\r\n    width: 18rem;\r\n    background-color:white;\r\n}\r\n\r\n.image-box\r\n{\r\n    height: 180px;\r\n}"]}
