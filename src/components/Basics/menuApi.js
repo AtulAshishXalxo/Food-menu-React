@@ -41,7 +41,7 @@ const Menu = [
 },
 {
     id:6,
-    image:"images/pizza_24.jpg",
+    image:"images/Pizza_24.jpg",
     name: "Desi Pizza",
     category: "Lunch",
     price: "60",

@@ -3,7 +3,7 @@ import React from 'react'
 function MenuCard({menuData}) {
     return (
         <>
-        <div className="container">
+        <div className="container ">
             
         <div className="row">
         {menuData.map((curElement) =>{
@@ -11,7 +11,7 @@ function MenuCard({menuData}) {
             const {id, name, category , price ,image, description} = curElement;
 
             return (
-                    <div className="col-4" >
+                    <div className="col-xl-4 col-lg-4 col-sm-12 col-12 d-flex justify-content-center" >
                         <div className="card item-box shadow my-3" key={id}>
                             <img className="card-img-top image-box" src={image} alt="Card image cap"/>
                             <div className="card-body">
